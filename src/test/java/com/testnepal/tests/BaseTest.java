@@ -41,7 +41,7 @@ public class BaseTest {
 	
 	/**
 	 * Terminates the browser instance
-	 * @author MD SADAB SAQIB
+	 * @author  Anil kota
 	 * 23-Jan-2021
 	 */
 	@AfterMethod
